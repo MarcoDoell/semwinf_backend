@@ -1,0 +1,1 @@
+web: java -jar target/decision-system-rest-service-0.1.0.jar
